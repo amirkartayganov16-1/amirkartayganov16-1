@@ -17,7 +17,7 @@ Pencil.pendown()
 while True:
     Pencil.forward(a)
     Pencil.right(b)
-    a += 3
+    a += 2
     b += 1
     if b == 210:
         break
